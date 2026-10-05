@@ -1,8 +1,8 @@
-\# Data Sources
+ Data Sources
 
 
 
-\## 1. IEC 2021 eThekwini Local Government Election Results
+1. IEC 2021 eThekwini Local Government Election Results
 
 
 
