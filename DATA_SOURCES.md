@@ -10,7 +10,7 @@
 
 
 
-\*\*Source:\*\* Electoral Commission of South Africa (IEC)
+\*\*Source:\*\* https://results.elections.org.za/home/LGEPublicReports/1091/Downloadable%20Party%20Results/KN/ETH.csv
 
 
 
