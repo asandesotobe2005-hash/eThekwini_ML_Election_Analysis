@@ -38,7 +38,7 @@ The 2021 PR results were used as the primary party-level electoral measure for t
 
 
 
-\*\*Source:\*\* Electoral Commission of South Africa (IEC)
+\*\*Source:\*\* https://results.elections.org.za/home/LGEPublicReports/402/Downloadable%20Party%20Results/KN/ETH.csv
 
 
 
